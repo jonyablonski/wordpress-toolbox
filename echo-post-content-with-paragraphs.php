@@ -1,0 +1,1 @@
+<?php echo $content = wpautop( $post->post_content ); ?>
